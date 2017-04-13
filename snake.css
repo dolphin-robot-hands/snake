@@ -2,6 +2,11 @@ body {
   background-color: black;
 }
 
+.home {
+  color: white;
+  font-size: 50;
+}
+
 td {
   border-style: solid;
   border-color: darkgrey;
